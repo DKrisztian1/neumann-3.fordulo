@@ -1,0 +1,15 @@
+C:\Users\dobos.attila\source\repos\neumann\neumann\bin\Debug\net6.0\neumann.exe
+C:\Users\dobos.attila\source\repos\neumann\neumann\bin\Debug\net6.0\neumann.deps.json
+C:\Users\dobos.attila\source\repos\neumann\neumann\bin\Debug\net6.0\neumann.runtimeconfig.json
+C:\Users\dobos.attila\source\repos\neumann\neumann\bin\Debug\net6.0\neumann.dll
+C:\Users\dobos.attila\source\repos\neumann\neumann\bin\Debug\net6.0\neumann.pdb
+C:\Users\dobos.attila\source\repos\neumann\neumann\obj\Debug\net6.0\neumann.csproj.AssemblyReference.cache
+C:\Users\dobos.attila\source\repos\neumann\neumann\obj\Debug\net6.0\neumann.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dobos.attila\source\repos\neumann\neumann\obj\Debug\net6.0\neumann.AssemblyInfoInputs.cache
+C:\Users\dobos.attila\source\repos\neumann\neumann\obj\Debug\net6.0\neumann.AssemblyInfo.cs
+C:\Users\dobos.attila\source\repos\neumann\neumann\obj\Debug\net6.0\neumann.csproj.CoreCompileInputs.cache
+C:\Users\dobos.attila\source\repos\neumann\neumann\obj\Debug\net6.0\neumann.dll
+C:\Users\dobos.attila\source\repos\neumann\neumann\obj\Debug\net6.0\refint\neumann.dll
+C:\Users\dobos.attila\source\repos\neumann\neumann\obj\Debug\net6.0\neumann.pdb
+C:\Users\dobos.attila\source\repos\neumann\neumann\obj\Debug\net6.0\neumann.genruntimeconfig.cache
+C:\Users\dobos.attila\source\repos\neumann\neumann\obj\Debug\net6.0\ref\neumann.dll
